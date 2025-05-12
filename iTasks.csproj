@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\EntityFramework.6.5.1\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.5.1\build\EntityFramework.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -12,6 +13,8 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,7 +36,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -46,69 +56,74 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmConsultarTarefasConcluidas.cs">
+    <Compile Include="views\frmConsultarTarefasConcluidas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmConsultarTarefasConcluidas.Designer.cs">
+    <Compile Include="views\frmConsultarTarefasConcluidas.Designer.cs">
       <DependentUpon>frmConsultarTarefasConcluidas.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmConsultaTarefasEmCurso.cs">
+    <Compile Include="views\frmConsultaTarefasEmCurso.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmConsultaTarefasEmCurso.Designer.cs">
+    <Compile Include="views\frmConsultaTarefasEmCurso.Designer.cs">
       <DependentUpon>frmConsultaTarefasEmCurso.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmDetalhesTarefa.cs">
+    <Compile Include="views\frmDetalhesTarefa.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmDetalhesTarefa.Designer.cs">
+    <Compile Include="views\frmDetalhesTarefa.Designer.cs">
       <DependentUpon>frmDetalhesTarefa.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmGereTiposTarefas.cs">
+    <Compile Include="views\frmGereTiposTarefas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmGereTiposTarefas.Designer.cs">
+    <Compile Include="views\frmGereTiposTarefas.Designer.cs">
       <DependentUpon>frmGereTiposTarefas.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmKanban.cs">
+    <Compile Include="views\frmKanban.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmKanban.Designer.cs">
+    <Compile Include="views\frmKanban.Designer.cs">
       <DependentUpon>frmKanban.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmGereUtilizadores.cs">
+    <Compile Include="views\frmGereUtilizadores.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmGereUtilizadores.Designer.cs">
+    <Compile Include="views\frmGereUtilizadores.Designer.cs">
       <DependentUpon>frmGereUtilizadores.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmLogin.cs">
+    <Compile Include="views\frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmLogin.Designer.cs">
+    <Compile Include="views\frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="models\Gestor.cs" />
+    <Compile Include="models\Programador.cs" />
+    <Compile Include="models\Tarefa.cs" />
+    <Compile Include="models\TipoTarefa.cs" />
+    <Compile Include="models\Utilizador.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmConsultarTarefasConcluidas.resx">
+    <EmbeddedResource Include="views\frmConsultarTarefasConcluidas.resx">
       <DependentUpon>frmConsultarTarefasConcluidas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmConsultaTarefasEmCurso.resx">
+    <EmbeddedResource Include="views\frmConsultaTarefasEmCurso.resx">
       <DependentUpon>frmConsultaTarefasEmCurso.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmDetalhesTarefa.resx">
+    <EmbeddedResource Include="views\frmDetalhesTarefa.resx">
       <DependentUpon>frmDetalhesTarefa.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmGereTiposTarefas.resx">
+    <EmbeddedResource Include="views\frmGereTiposTarefas.resx">
       <DependentUpon>frmGereTiposTarefas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmGereUtilizadores.resx">
+    <EmbeddedResource Include="views\frmGereUtilizadores.resx">
       <DependentUpon>frmGereUtilizadores.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmKanban.resx">
+    <EmbeddedResource Include="views\frmKanban.resx">
       <DependentUpon>frmKanban.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmLogin.resx">
+    <EmbeddedResource Include="views\frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -120,6 +135,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -133,5 +149,16 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="controllers\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\EntityFramework.6.5.1\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.5.1\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('packages\EntityFramework.6.5.1\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.5.1\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="packages\EntityFramework.6.5.1\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.5.1\build\EntityFramework.targets')" />
 </Project>
