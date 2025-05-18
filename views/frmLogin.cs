@@ -19,11 +19,29 @@ namespace iTasks
 
         private void btLogin_Click(object sender, EventArgs e)
         {
-            Form secondForm = new frmKanban();
+            
+            
             //secondForm.Show();
+            if (txtUsername.Text=="username" && txtPassword.Text == "password")
+            {
+                Form secondForm = new frmKanban();
+                secondForm.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("As credenciais estão erradas");
+                txtUsername.Clear();
+                txtPassword.Clear();
+                txtUsername.Focus();
+            }
+                //Hide();
+                //secondForm.ShowDialog();
 
-            //Hide();
-            secondForm.ShowDialog();
+        }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

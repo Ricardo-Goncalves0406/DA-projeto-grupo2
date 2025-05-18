@@ -17,7 +17,7 @@ namespace iTasks.models
 
         public bool GereUtilizadores { get; set; }
 
-        public Gestor(bool GereUtilizadores, string nome, string username, string Password, 
+        public Gestor(bool GereUtilizadores, string nome, string username, string Password,
             string departamento)
         {
             this.GereUtilizadores = GereUtilizadores;
@@ -27,5 +27,6 @@ namespace iTasks.models
             this.Departamento = departamento;
         }
     }
+}
 
   
