@@ -21,6 +21,8 @@ namespace iTasks.models
             NivelExperiencia = NivelExperiencia;
             IdGestor = idGestor;
         }
+
+        
     }
 
    

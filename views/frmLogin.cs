@@ -1,4 +1,5 @@
-﻿using System;
+﻿using iTasks.models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,8 +20,15 @@ namespace iTasks
 
         private void btLogin_Click(object sender, EventArgs e)
         {
-            
-            
+            Utilizador user = new Utilizador();
+            Utilizador user1 = new Utilizador();
+            user.Username = txtUsername.Text;
+            user.Password = txtPassword.Text;
+            user.AddUser(user);
+            user1 = user.GetUserById(user.Id);
+            // ALERT BOX WITH THE USERNAME AND PASSWORD
+            MessageBox.Show("Username: " + user1.Username + "\nPassword: " + user1.Password);
+
             //secondForm.Show();
             if (txtUsername.Text=="username" && txtPassword.Text == "password")
             {

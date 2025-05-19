@@ -25,7 +25,7 @@ namespace iTasks.models
 
         //O programador tem um gestor associado e um idGestor
         public int? IdGestor { get; set; }
-        public int Gestor { get; set; }
+        public int Gestores { get; set; }
 
 
         public Utilizador(int id, string nome, string username, string password)
@@ -36,6 +36,50 @@ namespace iTasks.models
             this.Password = password;
         }
 
+        public void AddUser(Utilizador user)
+        {
+            using (var context = new AplicationDBContext())
+            {
+                context.Utilizadores.Add(user);
+                context.SaveChanges();
+            }
+
+        }
+        public void UpdateUser(Utilizador user)
+        {
+            using (var context = new AplicationDBContext())
+            {
+                var existingUser = context.Utilizadores.Find(user.Id);
+                if (existingUser != null)
+                {
+                    existingUser.Nome = user.Nome;
+                    existingUser.Username = user.Username;
+                    existingUser.Password = user.Password;
+                    context.SaveChanges();
+                }
+            }
+        }
+
+        public void DeleteUser(int id)
+        {
+            using (var context = new AplicationDBContext())
+            {
+                var user = context.Utilizadores.Find(id);
+                if (user != null)
+                {
+                    context.Utilizadores.Remove(user);
+                    context.SaveChanges();
+                }
+            }
+        }
+
+        public Utilizador GetUserById(int id)
+        {
+            using (var context = new AplicationDBContext())
+            {
+                return context.Utilizadores.Find(id);
+            }
+        }
     }   
      
 }
