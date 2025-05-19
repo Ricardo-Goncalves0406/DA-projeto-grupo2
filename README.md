@@ -2,7 +2,7 @@
 # Checklist - Projeto Final iTasks
 
 ## 📌 **Requisitos Gerais**
-- [ ] Sistema de login com username único
+- [x] Sistema de login com username único
 - [ ] Diferenciação entre usuários (Programador/Gestor)
 - [ ] CRUD de usuários (apenas Gestor)
 - [ ] CRUD de Tipos de Tarefas (apenas Gestor)
