@@ -26,8 +26,7 @@ namespace iTasks
             user.Password = txtPassword.Text;
             user.AddUser(user);
             user1 = user.GetUserById(user.Id);
-            // ALERT BOX WITH THE USERNAME AND PASSWORD
-            MessageBox.Show("Username: " + user1.Username + "\nPassword: " + user1.Password);
+            
 
             //secondForm.Show();
             if (txtUsername.Text=="username" && txtPassword.Text == "password")

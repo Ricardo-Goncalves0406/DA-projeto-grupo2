@@ -57,6 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="models\AplicationDBContext.cs" />
+    <Compile Include="models\Departamento.cs" />
+    <Compile Include="models\EstadoAtual.cs" />
+    <Compile Include="models\NivelExperiencia.cs" />
     <Compile Include="views\frmConsultarTarefasConcluidas.cs">
       <SubType>Form</SubType>
     </Compile>

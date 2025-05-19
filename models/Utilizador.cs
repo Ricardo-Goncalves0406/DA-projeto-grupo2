@@ -36,6 +36,7 @@ namespace iTasks.models
             this.Password = password;
         }
 
+        //adicionar utilizador
         public void AddUser(Utilizador user)
         {
             using (var context = new AplicationDBContext())
@@ -45,6 +46,8 @@ namespace iTasks.models
             }
 
         }
+
+        //atualizar utilizador
         public void UpdateUser(Utilizador user)
         {
             using (var context = new AplicationDBContext())
@@ -60,6 +63,7 @@ namespace iTasks.models
             }
         }
 
+        //eliminar utilizador
         public void DeleteUser(int id)
         {
             using (var context = new AplicationDBContext())
@@ -73,6 +77,7 @@ namespace iTasks.models
             }
         }
 
+        //procurar utilizador por id
         public Utilizador GetUserById(int id)
         {
             using (var context = new AplicationDBContext())
