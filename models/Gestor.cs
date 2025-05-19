@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace iTasks.models
 {
-    class Gestor : Utilizador
+    public class Gestor : Utilizador
     {
         public Gestor()
         {
@@ -21,7 +21,7 @@ namespace iTasks.models
             string departamento)
         {
             this.GereUtilizadores = GereUtilizadores;
-            this.nome = nome;
+            this.Nome = nome;
             this.Username = Username;
             this.Password = Password;
             this.Departamento = departamento;

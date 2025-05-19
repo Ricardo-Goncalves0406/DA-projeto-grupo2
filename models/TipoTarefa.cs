@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace iTasks.models
 {
-    class TipoTarefa
+    public class TipoTarefa
     {
         public TipoTarefa()
         {

@@ -12,21 +12,16 @@ namespace iTasks.models
         // Construtor vazio com o nome da classe
         public Utilizador()
         {
-                   
+
         }
 
-        enum TipoUtilizador
-        {
-            Progamador,
-            Gestor
-        }
 
         // Construtor com parâmetros
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }
-        public  TipoUtilizador Tipo { get; set; }
+
 
         //O programador tem um gestor associado e um idGestor
         public int? IdGestor { get; set; }
@@ -40,7 +35,7 @@ namespace iTasks.models
             this.Username = username;
             this.Password = password;
         }
-                   
-        
+
+    }   
      
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace iTasks.models
 {
-    class Programador: Utilizador
+    public class Programador: Utilizador
     {
         public Programador()
         {

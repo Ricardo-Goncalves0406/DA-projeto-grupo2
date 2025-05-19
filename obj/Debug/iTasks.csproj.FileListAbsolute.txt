@@ -30,3 +30,8 @@ C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-pr
 C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-projeto-grupo2\obj\Debug\iTasks.csproj.CoreCompileInputs.cache
 C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-projeto-grupo2\obj\Debug\iTasks.exe
 C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-projeto-grupo2\obj\Debug\iTasks.pdb
+C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-projeto-grupo2\bin\Debug\EntityFramework.dll
+C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-projeto-grupo2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-projeto-grupo2\bin\Debug\EntityFramework.xml
+C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-projeto-grupo2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-projeto-grupo2\obj\Debug\iTasks.csproj.Up2Date
