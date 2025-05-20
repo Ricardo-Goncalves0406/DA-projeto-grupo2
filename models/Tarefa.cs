@@ -23,7 +23,7 @@ namespace iTasks.models
         public int StoryPoints { get; set; }
         public int DataRealInicio { get; set; }
         public int DataRealFim { get; set; }
-        public int DataCriacao { get; set; }
+        public DateTime DataCriacao { get; set; }
         public int EstadoAtual { get; set; }
 
 
@@ -82,7 +82,5 @@ namespace iTasks.models
                 }
             }
         }
-
-
     }
 }

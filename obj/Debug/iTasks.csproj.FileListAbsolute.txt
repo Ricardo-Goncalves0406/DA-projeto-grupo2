@@ -60,3 +60,5 @@ E:\git\DA-projeto-grupo2\bin\Debug\Microsoft.Configuration.ConfigurationBuilders
 E:\git\DA-projeto-grupo2\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
 E:\git\DA-projeto-grupo2\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
 E:\git\DA-projeto-grupo2\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.Migrations.InitialCreate.resources
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.Migrations.migrationmain.resources
