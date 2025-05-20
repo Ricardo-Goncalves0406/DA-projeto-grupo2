@@ -85,6 +85,15 @@ namespace iTasks.models
                 return context.Utilizadores.Find(id);
             }
         }
+
+        // procurar utilizador por username
+        public Utilizador GetUserByUsername(string username)
+        {
+            using (var context = new AplicationDBContext())
+            {
+                return context.Utilizadores.FirstOrDefault(u => u.Username == username);
+            }
+        }
     }   
      
 }

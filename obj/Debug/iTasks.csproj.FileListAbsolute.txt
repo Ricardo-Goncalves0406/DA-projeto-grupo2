@@ -35,3 +35,28 @@ C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-pr
 C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-projeto-grupo2\bin\Debug\EntityFramework.xml
 C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-projeto-grupo2\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ricar\Desktop\IPL_LEIRIA\Desenvovlvimento de aplicações\Projeto\DA-projeto-grupo2\obj\Debug\iTasks.csproj.Up2Date
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.csproj.AssemblyReference.cache
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.frmConsultarTarefasConcluidas.resources
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.frmConsultaTarefasEmCurso.resources
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.frmDetalhesTarefa.resources
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.frmGereTiposTarefas.resources
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.frmGereUtilizadores.resources
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.frmKanban.resources
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.frmLogin.resources
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.Properties.Resources.resources
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.csproj.GenerateResource.cache
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.csproj.CoreCompileInputs.cache
+E:\git\DA-projeto-grupo2\bin\Debug\iTasks.exe.config
+E:\git\DA-projeto-grupo2\bin\Debug\iTasks.exe
+E:\git\DA-projeto-grupo2\bin\Debug\iTasks.pdb
+E:\git\DA-projeto-grupo2\bin\Debug\EntityFramework.dll
+E:\git\DA-projeto-grupo2\bin\Debug\EntityFramework.SqlServer.dll
+E:\git\DA-projeto-grupo2\bin\Debug\EntityFramework.xml
+E:\git\DA-projeto-grupo2\bin\Debug\EntityFramework.SqlServer.xml
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.csproj.Up2Date
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.exe
+E:\git\DA-projeto-grupo2\obj\Debug\iTasks.pdb
+E:\git\DA-projeto-grupo2\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+E:\git\DA-projeto-grupo2\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+E:\git\DA-projeto-grupo2\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+E:\git\DA-projeto-grupo2\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml

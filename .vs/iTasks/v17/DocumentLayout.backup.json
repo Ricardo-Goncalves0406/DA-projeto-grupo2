@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\",
+  "WorkspaceRootPath": "E:\\git\\DA-projeto-grupo2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|c:\\users\\ricar\\desktop\\ipl_leiria\\desenvovlvimento de aplica\u00E7\u00F5es\\projeto\\da-projeto-grupo2\\views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\models\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|c:\\users\\ricar\\desktop\\ipl_leiria\\desenvovlvimento de aplica\u00E7\u00F5es\\projeto\\da-projeto-grupo2\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|c:\\users\\ricar\\desktop\\ipl_leiria\\desenvovlvimento de aplica\u00E7\u00F5es\\projeto\\da-projeto-grupo2\\models\\estadoatual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\estadoatual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|c:\\users\\ricar\\desktop\\ipl_leiria\\desenvovlvimento de aplica\u00E7\u00F5es\\projeto\\da-projeto-grupo2\\models\\nivelexperiencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\nivelexperiencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\nivelexperiencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\tipotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\estadoatual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\estadoatual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\tipotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\tipotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmgereutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmgereutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmgereutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmgeretipostarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmgeretipostarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmgeretipostarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmconsultartarefasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmconsultartarefasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmconsultartarefasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmdetalhestarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmdetalhestarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmdetalhestarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmconsultatarefasemcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmconsultatarefasemcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmconsultatarefasemcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -78,58 +78,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EstadoAtual.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\EstadoAtual.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\EstadoAtual.cs",
               "RelativeDocumentMoniker": "models\\EstadoAtual.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\EstadoAtual.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\EstadoAtual.cs",
               "RelativeToolTip": "models\\EstadoAtual.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T21:21:08.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T21:21:08.819Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\Departamento.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Departamento.cs",
               "RelativeDocumentMoniker": "models\\Departamento.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\Departamento.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Departamento.cs",
               "RelativeToolTip": "models\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T21:20:16.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T21:20:16.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "NivelExperiencia.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\NivelExperiencia.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\NivelExperiencia.cs",
               "RelativeDocumentMoniker": "models\\NivelExperiencia.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\NivelExperiencia.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\NivelExperiencia.cs",
               "RelativeToolTip": "models\\NivelExperiencia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T21:19:43.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T21:19:43.419Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "TipoTarefa.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\TipoTarefa.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\TipoTarefa.cs",
               "RelativeDocumentMoniker": "models\\TipoTarefa.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\TipoTarefa.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\TipoTarefa.cs",
               "RelativeToolTip": "models\\TipoTarefa.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAxwDcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,26 +130,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Gestor.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\Gestor.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Gestor.cs",
               "RelativeDocumentMoniker": "models\\Gestor.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\Gestor.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Gestor.cs",
               "RelativeToolTip": "models\\Gestor.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAwwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:32:46.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T20:32:46.595Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Utilizador.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\Utilizador.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Utilizador.cs",
               "RelativeDocumentMoniker": "models\\Utilizador.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\Utilizador.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Utilizador.cs",
               "RelativeToolTip": "models\\Utilizador.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA6wDEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T20:35:00.941Z",
               "EditorCaption": ""
@@ -165,9 +157,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Programador.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\Programador.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Programador.cs",
               "RelativeDocumentMoniker": "models\\Programador.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\Programador.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Programador.cs",
               "RelativeToolTip": "models\\Programador.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAYwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,11 +169,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\AplicationDBContext.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\AplicationDBContext.cs",
               "RelativeDocumentMoniker": "models\\AplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\AplicationDBContext.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\AplicationDBContext.cs",
               "RelativeToolTip": "models\\AplicationDBContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAASwBEAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:44:49.539Z",
               "EditorCaption": ""
@@ -190,9 +182,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Tarefa.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\Tarefa.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Tarefa.cs",
               "RelativeDocumentMoniker": "models\\Tarefa.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\models\\Tarefa.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Tarefa.cs",
               "RelativeToolTip": "models\\Tarefa.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAmwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,11 +194,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmLogin.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmLogin.cs",
               "RelativeDocumentMoniker": "views\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmLogin.cs*",
-              "RelativeToolTip": "views\\frmLogin.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmLogin.cs",
+              "RelativeToolTip": "views\\frmLogin.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T21:45:28.993Z",
               "EditorCaption": ""
@@ -215,20 +207,21 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmLogin.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmLogin.cs",
               "RelativeDocumentMoniker": "views\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmLogin.cs [Design]",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmLogin.cs [Design]",
               "RelativeToolTip": "views\\frmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T21:45:10.563Z"
+              "WhenOpened": "2025-05-05T21:45:10.563Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "frmGereTiposTarefas.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmGereTiposTarefas.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmGereTiposTarefas.cs",
               "RelativeDocumentMoniker": "views\\frmGereTiposTarefas.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmGereTiposTarefas.cs [Design]",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmGereTiposTarefas.cs [Design]",
               "RelativeToolTip": "views\\frmGereTiposTarefas.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T22:29:44.452Z"
@@ -237,9 +230,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "frmGereUtilizadores.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs",
               "RelativeDocumentMoniker": "views\\frmGereUtilizadores.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs [Design]",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs [Design]",
               "RelativeToolTip": "views\\frmGereUtilizadores.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T22:29:53.229Z"
@@ -248,9 +241,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\Program.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\Program.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -260,9 +253,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "frmConsultarTarefasConcluidas.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmConsultarTarefasConcluidas.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmConsultarTarefasConcluidas.cs",
               "RelativeDocumentMoniker": "views\\frmConsultarTarefasConcluidas.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmConsultarTarefasConcluidas.cs [Design]",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmConsultarTarefasConcluidas.cs [Design]",
               "RelativeToolTip": "views\\frmConsultarTarefasConcluidas.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T22:29:49.735Z"
@@ -271,9 +264,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "frmDetalhesTarefa.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmDetalhesTarefa.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmDetalhesTarefa.cs",
               "RelativeDocumentMoniker": "views\\frmDetalhesTarefa.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmDetalhesTarefa.cs [Design]",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmDetalhesTarefa.cs [Design]",
               "RelativeToolTip": "views\\frmDetalhesTarefa.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T22:29:46.48Z"
@@ -282,9 +275,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "frmConsultaTarefasEmCurso.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmConsultaTarefasEmCurso.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmConsultaTarefasEmCurso.cs",
               "RelativeDocumentMoniker": "views\\frmConsultaTarefasEmCurso.cs",
-              "ToolTip": "C:\\Users\\ricar\\Desktop\\IPL_LEIRIA\\Desenvovlvimento de aplica\u00E7\u00F5es\\Projeto\\DA-projeto-grupo2\\views\\frmConsultaTarefasEmCurso.cs [Design]",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmConsultaTarefasEmCurso.cs [Design]",
               "RelativeToolTip": "views\\frmConsultaTarefasEmCurso.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T22:29:47.868Z"

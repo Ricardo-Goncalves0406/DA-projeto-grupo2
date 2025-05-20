@@ -21,29 +21,41 @@ namespace iTasks
         private void btLogin_Click(object sender, EventArgs e)
         {
             Utilizador user = new Utilizador();
-            Utilizador user1 = new Utilizador();
-            user.Username = txtUsername.Text;
-            user.Password = txtPassword.Text;
-            user.AddUser(user);
-            user1 = user.GetUserById(user.Id);
-            
+            user = user.GetUserByUsername(txtUsername.Text);
 
-            //secondForm.Show();
-            if (txtUsername.Text=="username" && txtPassword.Text == "password")
+            // Validar se o utilizador existe e se a password está correta
+            if (user != null && user.Password == txtPassword.Text)
             {
-                Form secondForm = new frmKanban();
+                // Se o utilizador existir e a password estiver correta, abrir o formulário principal
+                Form secondForm = new frmKanban(user);
                 secondForm.Show();
                 this.Hide();
             }
             else
             {
-                MessageBox.Show("As credenciais estão erradas");
+                // Se o utilizador não existir ou a password estiver incorreta, mostrar mensagem de erro
+                MessageBox.Show("As credenciais estão erradas ou o user não existe!");
                 txtUsername.Clear();
                 txtPassword.Clear();
                 txtUsername.Focus();
             }
-                //Hide();
-                //secondForm.ShowDialog();
+
+            //secondForm.Show();
+            //if (txtUsername.Text=="username" && txtPassword.Text == "password")
+            //{
+            //    Form secondForm = new frmKanban();
+            //    secondForm.Show();
+            //    this.Hide();
+            //}
+            //else
+            //{
+            //    MessageBox.Show("As credenciais estão erradas");
+            //    txtUsername.Clear();
+            //    txtPassword.Clear();
+            //    txtUsername.Focus();
+            //}
+            //    //Hide();
+            //secondForm.ShowDialog();
 
         }
 
