@@ -71,6 +71,18 @@
     <Compile Include="Migrations\202505201832506_migrationmain.Designer.cs">
       <DependentUpon>202505201832506_migrationmain.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202505261518396_migration2.cs" />
+    <Compile Include="Migrations\202505261518396_migration2.Designer.cs">
+      <DependentUpon>202505261518396_migration2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202505261533390_migration3.cs" />
+    <Compile Include="Migrations\202505261533390_migration3.Designer.cs">
+      <DependentUpon>202505261533390_migration3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202505261605238_migration4.cs" />
+    <Compile Include="Migrations\202505261605238_migration4.Designer.cs">
+      <DependentUpon>202505261605238_migration4.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="models\AplicationDBContext.cs" />
     <Compile Include="models\Departamento.cs" />
@@ -131,6 +143,15 @@
     <EmbeddedResource Include="Migrations\202505201832506_migrationmain.resx">
       <DependentUpon>202505201832506_migrationmain.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202505261518396_migration2.resx">
+      <DependentUpon>202505261518396_migration2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202505261533390_migration3.resx">
+      <DependentUpon>202505261533390_migration3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202505261605238_migration4.resx">
+      <DependentUpon>202505261605238_migration4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="views\frmConsultarTarefasConcluidas.resx">
       <DependentUpon>frmConsultarTarefasConcluidas.cs</DependentUpon>
     </EmbeddedResource>
@@ -162,6 +183,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="packages.config" />
+    <None Include="Properties\DataSources\iTasks.models.Tarefa.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

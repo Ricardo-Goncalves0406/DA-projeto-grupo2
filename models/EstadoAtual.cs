@@ -11,6 +11,5 @@ namespace iTasks.models
         Todo,
         Going,
         Done
-
     }
 }

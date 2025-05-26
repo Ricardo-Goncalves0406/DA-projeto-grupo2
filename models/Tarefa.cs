@@ -21,8 +21,8 @@ namespace iTasks.models
         public DateTime DataPrevistaFim { get; set; }
         public int IdTipoTarefa { get; set; }
         public int StoryPoints { get; set; }
-        public int DataRealInicio { get; set; }
-        public int DataRealFim { get; set; }
+        public DateTime DataRealInicio { get; set; }
+        public DateTime DataRealFim { get; set; }
         public DateTime DataCriacao { get; set; }
         public int EstadoAtual { get; set; }
 

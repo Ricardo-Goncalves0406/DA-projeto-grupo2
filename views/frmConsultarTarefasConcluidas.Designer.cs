@@ -28,9 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.btFechar = new System.Windows.Forms.Button();
             this.gvTarefasConcluidas = new System.Windows.Forms.DataGridView();
+            this.tarefaBindingSource = new System.Windows.Forms.BindingSource(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.gvTarefasConcluidas)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tarefaBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // btFechar
@@ -50,6 +53,10 @@
             this.gvTarefasConcluidas.Size = new System.Drawing.Size(1026, 395);
             this.gvTarefasConcluidas.TabIndex = 31;
             // 
+            // tarefaBindingSource
+            // 
+            this.tarefaBindingSource.DataSource = typeof(iTasks.models.Tarefa);
+            // 
             // frmConsultarTarefasConcluidas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -60,6 +67,7 @@
             this.Name = "frmConsultarTarefasConcluidas";
             this.Text = "frmConsultarTarefasConcluidas";
             ((System.ComponentModel.ISupportInitialize)(this.gvTarefasConcluidas)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tarefaBindingSource)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -68,5 +76,6 @@
 
         private System.Windows.Forms.Button btFechar;
         private System.Windows.Forms.DataGridView gvTarefasConcluidas;
+        private System.Windows.Forms.BindingSource tarefaBindingSource;
     }
 }
