@@ -39,23 +39,35 @@ namespace iTasks
                 this.txtStoryPoints.Text = _tarefa.StoryPoints.ToString();
                 this.dtInicio.Text = _tarefa.DataPrevistaInicio.ToString("dd/MM/yyyy");
                 this.dtFim.Text = _tarefa.DataPrevistaFim.ToString("dd/MM/yyyy");
+
+                tarefa = _tarefa; // Armazenar a tarefa para atualizações futuras
             }
         }
 
         private void btGravar_Click(object sender, EventArgs e)
         {
             // Atualizar os detalhes da tarefa
-            if (tarefa != null)
+            if (this.tarefa != null)
             {
-                tarefa.Descricao = this.txtDesc.Text;
-                tarefa.IdTipoTarefa = int.Parse(this.cbTipoTarefa.Text);
-                tarefa.idProgramador = int.Parse(this.cbProgramador.Text);
-                tarefa.OrdemExecucao = int.Parse(this.txtOrdem.Text);
-                tarefa.StoryPoints = int.Parse(this.txtStoryPoints.Text);
-                tarefa.DataPrevistaInicio = DateTime.Parse(this.dtInicio.Text);
-                tarefa.DataPrevistaFim = DateTime.Parse(this.dtFim.Text);
+                Tarefa newTarefa = new Tarefa();
+
+                newTarefa.Descricao = txtDesc.Text;
+                newTarefa.IdTipoTarefa = int.Parse(cbTipoTarefa.Text);
+                newTarefa.idProgramador = int.Parse(cbProgramador.Text);
+                newTarefa.OrdemExecucao = int.Parse(txtOrdem.Text);
+                newTarefa.StoryPoints = int.Parse(txtStoryPoints.Text);
+                newTarefa.DataPrevistaInicio = DateTime.Parse(dtInicio.Text);
+                newTarefa.DataPrevistaFim = DateTime.Parse(dtFim.Text);
+                newTarefa.id = tarefa.id; // Manter o ID da tarefa existente para atualização
+                newTarefa.DataRealInicio = tarefa.DataRealInicio; // Manter os dados reais de início e fim
+                newTarefa.DataRealFim = tarefa.DataRealFim;
+                newTarefa.DataCriacao = tarefa.DataCriacao; // Manter a data de criação
+                newTarefa.EstadoAtual = tarefa.EstadoAtual; // Manter o estado atual da tarefa
+                newTarefa.idGestor = tarefa.idGestor; // Manter o ID do gestor
+
                 // Chamar o método de atualização do controlador
                 tarefaController.UpdateTarefa(tarefa);
+                
                 MessageBox.Show("Tarefa atualizada com sucesso!");
             }
             else
