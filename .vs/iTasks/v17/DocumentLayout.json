@@ -3,46 +3,46 @@
   "WorkspaceRootPath": "E:\\git\\DA-projeto-grupo2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\views\\frmkanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmkanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\views\\frmkanban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmkanban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmkanban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\views\\frmconsultartarefasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmconsultartarefasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmconsultartarefasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\views\\frmconsultatarefasemcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmconsultatarefasemcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmconsultatarefasemcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\views\\frmconsultartarefasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmconsultartarefasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmconsultartarefasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\views\\frmconsultatarefasemcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmconsultatarefasemcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmconsultatarefasemcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\views\\frmkanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmkanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmkanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks.models.AplicationDBContext/True/SqlTable/dbo.Tarefas.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\models\\estadoatual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\estadoatual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\estadoatual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -53,21 +53,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "dbo.Tarefas [Dados]",
+              "Title": "dbo.Tarefas.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks.models.AplicationDBContext/True/SqlTable/dbo.Tarefas.sql",
-              "ToolTip": "dbo.Tarefas [Dados]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks.models.AplicationDBContext/True/SqlTable/dbo.Tarefas.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-26T17:08:49.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T17:08:49.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "frmConsultaTarefasEmCurso.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmConsultaTarefasEmCurso.cs",
               "RelativeDocumentMoniker": "views\\frmConsultaTarefasEmCurso.cs",
@@ -75,12 +74,11 @@
               "RelativeToolTip": "views\\frmConsultaTarefasEmCurso.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAqwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:35:33.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T16:35:33.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "frmConsultarTarefasConcluidas.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmConsultarTarefasConcluidas.cs",
               "RelativeDocumentMoniker": "views\\frmConsultarTarefasConcluidas.cs",
@@ -88,36 +86,33 @@
               "RelativeToolTip": "views\\frmConsultarTarefasConcluidas.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:07:49.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T15:07:49.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmConsultaTarefasEmCurso.cs [Design]",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmConsultaTarefasEmCurso.cs",
               "RelativeDocumentMoniker": "views\\frmConsultaTarefasEmCurso.cs",
               "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmConsultaTarefasEmCurso.cs [Design]",
               "RelativeToolTip": "views\\frmConsultaTarefasEmCurso.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:35:21.795Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-26T16:35:21.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmConsultarTarefasConcluidas.cs [Design]",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmConsultarTarefasConcluidas.cs",
               "RelativeDocumentMoniker": "views\\frmConsultarTarefasConcluidas.cs",
               "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmConsultarTarefasConcluidas.cs [Design]",
               "RelativeToolTip": "views\\frmConsultarTarefasConcluidas.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:03:22.981Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-26T15:03:22.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmKanban.Designer.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmKanban.Designer.cs",
               "RelativeDocumentMoniker": "views\\frmKanban.Designer.cs",
@@ -130,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Tarefa.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Tarefa.cs",
               "RelativeDocumentMoniker": "models\\Tarefa.cs",
@@ -138,12 +133,11 @@
               "RelativeToolTip": "models\\Tarefa.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T13:16:49.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T13:16:49.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmKanban.cs [Design]",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmKanban.cs",
               "RelativeDocumentMoniker": "views\\frmKanban.cs",
@@ -163,18 +157,17 @@
               "RelativeToolTip": "models\\EstadoAtual.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:18:46.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T11:18:46.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "TarefaController.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\controllers\\TarefaController.cs",
               "RelativeDocumentMoniker": "controllers\\TarefaController.cs",
               "ToolTip": "E:\\git\\DA-projeto-grupo2\\controllers\\TarefaController.cs",
               "RelativeToolTip": "controllers\\TarefaController.cs",
-              "ViewState": "AgIAABQBAAAAAAAAAAAiwCYBAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABEBAAAAAAAAAAAiwCQBAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T11:16:56.318Z",
               "EditorCaption": ""
@@ -189,8 +182,7 @@
               "RelativeToolTip": "views\\frmKanban.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAArwKgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:16:50.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T11:16:50.148Z"
             }
           ]
         }
