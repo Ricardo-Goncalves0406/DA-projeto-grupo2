@@ -40,6 +40,7 @@
             this.gvTarefasEmCurso.Name = "gvTarefasEmCurso";
             this.gvTarefasEmCurso.Size = new System.Drawing.Size(1026, 395);
             this.gvTarefasEmCurso.TabIndex = 0;
+            this.gvTarefasEmCurso.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gvTarefasEmCurso_CellDoubleClick);
             // 
             // btFechar
             // 
@@ -50,14 +51,14 @@
             this.btFechar.Text = "Fechar";
             this.btFechar.UseVisualStyleBackColor = true;
             // 
-            // frmConsultaTarefasEmCurso
+            // frmConsultaTarefasGeral
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1050, 450);
             this.Controls.Add(this.btFechar);
             this.Controls.Add(this.gvTarefasEmCurso);
-            this.Name = "frmConsultaTarefasEmCurso";
+            this.Name = "frmConsultaTarefasGeral";
             this.Text = "frmConsultaTarefasEmCurso";
             ((System.ComponentModel.ISupportInitialize)(this.gvTarefasEmCurso)).EndInit();
             this.ResumeLayout(false);

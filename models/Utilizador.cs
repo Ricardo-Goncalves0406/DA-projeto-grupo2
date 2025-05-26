@@ -41,8 +41,15 @@ namespace iTasks.models
         {
             using (var context = new AplicationDBContext())
             {
-                context.Utilizadores.Add(user);
-                context.SaveChanges();
+                if (context.Utilizadores.Any(u => u.Username == user.Username))
+                {
+                    return;
+                }
+                else
+                {
+                    context.Utilizadores.Add(user);
+                    context.SaveChanges();
+                }
             }
 
         }

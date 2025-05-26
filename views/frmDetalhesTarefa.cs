@@ -7,14 +7,61 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using iTasks.controllers;
+using iTasks.models;
 
 namespace iTasks
 {
     public partial class frmDetalhesTarefa : Form
     {
-        public frmDetalhesTarefa()
+        private Tarefa tarefa;
+        private TarefaController tarefaController = new TarefaController();
+
+        public frmDetalhesTarefa(Tarefa _tarefa)
         {
             InitializeComponent();
+            LoadTarefaDetails(_tarefa);
+        }
+
+        // Método para carregar os detalhes da tarefa no formulário
+        public void LoadTarefaDetails(Tarefa _tarefa)
+        {
+            if (_tarefa != null)
+            {
+                this.txtId.Text = _tarefa.id.ToString();
+                this.txtEstado.Text = _tarefa.EstadoAtual.ToString();
+                this.txtDataRealini.Text = _tarefa.DataRealInicio.ToString("dd/MM/yyyy HH:mm:ss");
+                this.txtdataRealFim.Text = _tarefa.DataRealFim.ToString("dd/MM/yyyy HH:mm:ss");
+                this.txtDesc.Text = _tarefa.Descricao;
+                this.cbTipoTarefa.Text = _tarefa.IdTipoTarefa.ToString();
+                this.cbProgramador.Text = _tarefa.idProgramador.ToString();
+                this.txtOrdem.Text = _tarefa.OrdemExecucao.ToString();
+                this.txtStoryPoints.Text = _tarefa.StoryPoints.ToString();
+                this.dtInicio.Text = _tarefa.DataPrevistaInicio.ToString("dd/MM/yyyy");
+                this.dtFim.Text = _tarefa.DataPrevistaFim.ToString("dd/MM/yyyy");
+            }
+        }
+
+        private void btGravar_Click(object sender, EventArgs e)
+        {
+            // Atualizar os detalhes da tarefa
+            if (tarefa != null)
+            {
+                tarefa.Descricao = this.txtDesc.Text;
+                tarefa.IdTipoTarefa = int.Parse(this.cbTipoTarefa.Text);
+                tarefa.idProgramador = int.Parse(this.cbProgramador.Text);
+                tarefa.OrdemExecucao = int.Parse(this.txtOrdem.Text);
+                tarefa.StoryPoints = int.Parse(this.txtStoryPoints.Text);
+                tarefa.DataPrevistaInicio = DateTime.Parse(this.dtInicio.Text);
+                tarefa.DataPrevistaFim = DateTime.Parse(this.dtFim.Text);
+                // Chamar o método de atualização do controlador
+                tarefaController.UpdateTarefa(tarefa);
+                MessageBox.Show("Tarefa atualizada com sucesso!");
+            }
+            else
+            {
+                MessageBox.Show("Nenhuma tarefa selecionada para atualizar.");
+            }
         }
     }
 }

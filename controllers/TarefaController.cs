@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data.Entity;
 using iTasks.models;
 using System.Windows.Forms;
+using System.Collections;
 
 
 namespace iTasks.controllers
@@ -298,6 +299,18 @@ namespace iTasks.controllers
             catch (Exception ex)
             {
                 MessageBox.Show("Erro ao exportar tarefas para CSV: " + ex.Message);
+            }
+        }
+
+        public void UpdateTarefa(Tarefa tarefa)
+        {
+            try
+            {
+                tarefa.UpdateTarefa(tarefa); // Chama o método de atualização da tarefa
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro ao atualizar a tarefa: " + ex.Message);
             }
         }
     }

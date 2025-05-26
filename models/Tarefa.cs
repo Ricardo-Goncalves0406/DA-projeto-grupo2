@@ -26,8 +26,6 @@ namespace iTasks.models
         public DateTime DataCriacao { get; set; }
         public int EstadoAtual { get; set; }
 
-
-
         public void AddTarefa(Tarefa tarefa)
         {
             using (var context = new AplicationDBContext())

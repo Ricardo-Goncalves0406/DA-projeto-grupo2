@@ -1,4 +1,5 @@
-﻿using iTasks.models;
+﻿using iTasks.controllers;
+using iTasks.models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -21,6 +22,8 @@ namespace iTasks
         private void btLogin_Click(object sender, EventArgs e)
         {
             Utilizador user = new Utilizador();
+            UserController userController = new UserController();
+            userController.TestUser(); // Cria um utilizador de teste para fins de demonstração
             user = user.GetUserByUsername(txtUsername.Text);
 
             // Validar se o utilizador existe e se a password está correta

@@ -67,5 +67,21 @@ namespace iTasks
                 );
             }
         }
+
+        private void gvTarefasEmCurso_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            // Obtem a tarefa selecionada e abre o formulário de Gestão de Tarefas
+            if (e.RowIndex >= 0 && e.RowIndex < gvTarefasEmCurso.Rows.Count)
+            {
+                int tarefaId = Convert.ToInt32(gvTarefasEmCurso.Rows[e.RowIndex].Cells["id"].Value);
+                Tarefa tarefaSelecionada = tarefasEmCurso.FirstOrDefault(t => t.id == tarefaId);
+                if (tarefaSelecionada != null)
+                {
+                    frmDetalhesTarefa frmDetalhes = new frmDetalhesTarefa(tarefaSelecionada);
+                    frmDetalhes.ShowDialog();
+                    UpdateDataTable(); // Atualiza a tabela após fechar o formulário de detalhes
+                }
+            }
+        }
     }
 }

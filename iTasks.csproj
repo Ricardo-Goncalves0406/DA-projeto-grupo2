@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="controllers\TarefaController.cs" />
+    <Compile Include="controllers\UserController.cs" />
     <Compile Include="Migrations\202505201055437_InitialCreate.cs" />
     <Compile Include="Migrations\202505201055437_InitialCreate.Designer.cs">
       <DependentUpon>202505201055437_InitialCreate.cs</DependentUpon>
