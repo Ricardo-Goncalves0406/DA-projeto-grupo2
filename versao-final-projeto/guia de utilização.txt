@@ -1,0 +1,34 @@
+Guia de utilização app iTasks
+
+Pre setup e configurações.
+Caso a db não seja detectada talvez seja nessesario rodar as migrações.
+com o comando Update-database.
+
+1. Login.
+\ Logo ao iniciar a aplicação o primeiro form é o de login, por padrão o user default é o admin|@#123admin
+
+2. Form kanban.
+\ No form kanban existe as 3 listas, ToDo tarefas para serem realizadas, Doing tarefas em curso, Done tarefas concluidas.
+\ Para criar uma nova tarefa clica-se no botão Nova tarefa, será aberto um dialog onde deverá ser preenchido os dados relativos a tarefa e então pode ser criada.
+\ Ao clicar em executar tarefa a tarefa pode ser movida para Doing, Uma vez em doing ela pode ser reiniciada ou concluida porem uma vez concluida não pode mais ser reiniciada.
+\ É possivel exportar para csv, selecionando selecionando Ficheiro > Exportar Tarefas Conclúdas para CSV.
+\ É possivel ver Tarefas em curso e Tarefas concluidas selecionando em Listagem.
+\ Caso seja admin é possivel gerir utilizadores em Gestão da Aplicação > Gerir Utilizadores.
+
+
+2. Form Tarefas em curso.
+
+\ No form de tarefas em curso vai ser listado todas as tarefas que estão em Doing, ou seja as em ToDo e Done não irão aparecer nesta listagem.
+\ Ao carregar duas vezes em uma tarefa é possivel editar a tarefa.
+\ Ao carregar em um dos cabeçalhos da tabela e possivel filtrar por aquela coluna.
+
+2. Form Tarefas concluidas.
+
+\ No form de tarefas concluidas vai ser listado todas as tarefas que estão em Done, ou seja as em ToDo e Doing não irão aparecer nesta listagem.
+\ Ao carregar duas vezes em uma tarefa é possivel editar a tarefa.
+\ Ao carregar em um dos cabeçalhos da tabela e possivel filtrar por aquela coluna.
+
+3. Form Lista Utilizadores
+
+\ Existem duas listas o de Gestores e Programadores ao clicar em um registro em quaisquer uma das duas, os campos de edição serão atualizados, e ao alterar um valor
+e carregar em gravar 

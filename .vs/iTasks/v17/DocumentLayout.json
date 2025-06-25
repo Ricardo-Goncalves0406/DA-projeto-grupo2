@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "E:\\git\\DA-projeto-grupo2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\views\\frmgeretipostarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmgeretipostarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -19,16 +39,12 @@
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\views\\frmgereutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmgereutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmgereutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\tipotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\tipotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmkanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,23 +65,15 @@
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmregistrarutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmregistrarutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\views\\frmgereutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmgereutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmgereutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|e:\\git\\da-projeto-grupo2\\views\\frmdetalhestarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmdetalhestarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:views\\frmdetalhestarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -82,16 +90,8 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks.models.AplicationDBContext/True/SqlTable/dbo.Programadores.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\migrations\\202506242339323_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:migrations\\202506242339323_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\views\\frmdetalhestarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -108,12 +108,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|E:\\git\\DA-projeto-grupo2\\models\\nivelexperiencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40078359-763C-472D-9D7E-8C252267F6FC}|iTasks.csproj|solutionrelative:models\\nivelexperiencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pedro.DESKTOP-EI6JCR4\\AppData\\Local\\Temp\\tp15aqdt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pedro.DESKTOP-EI6JCR4\\AppData\\Local\\Temp\\tp15aqdt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -123,110 +117,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Utilizador.cs",
-              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Utilizador.cs",
-              "RelativeDocumentMoniker": "models\\Utilizador.cs",
-              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Utilizador.cs",
-              "RelativeToolTip": "models\\Utilizador.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAADgv4YAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:22:50.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmGereTiposTarefas.cs [Design]",
-              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmGereTiposTarefas.cs",
-              "RelativeDocumentMoniker": "views\\frmGereTiposTarefas.cs",
-              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmGereTiposTarefas.cs [Design]",
-              "RelativeToolTip": "views\\frmGereTiposTarefas.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:09:00.896Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Departamento.cs",
-              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Departamento.cs",
-              "RelativeDocumentMoniker": "models\\Departamento.cs",
-              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Departamento.cs",
-              "RelativeToolTip": "models\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:55:27.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Gestor.cs",
-              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Gestor.cs",
-              "RelativeDocumentMoniker": "models\\Gestor.cs",
-              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Gestor.cs",
-              "RelativeToolTip": "models\\Gestor.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADgvx4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T22:44:59.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tarefa.cs",
-              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Tarefa.cs",
-              "RelativeDocumentMoniker": "models\\Tarefa.cs",
-              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Tarefa.cs",
-              "RelativeToolTip": "models\\Tarefa.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:26:44.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmGereUtilizadores.cs",
-              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs",
-              "RelativeDocumentMoniker": "views\\frmGereUtilizadores.cs",
-              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs",
-              "RelativeToolTip": "views\\frmGereUtilizadores.cs",
-              "ViewState": "AgIAAPcAAAAAAAAAAAASwBEBAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:47:03.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dbo.Gestores [Dados]",
+              "DocumentIndex": 13,
+              "Title": "dbo.Gestores.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks.models.AplicationDBContext/True/SqlTable/dbo.Gestores.sql",
-              "ToolTip": "dbo.Gestores [Dados]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks.models.AplicationDBContext/True/SqlTable/dbo.Gestores.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-06-25T19:05:34.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T19:05:34.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "frmRegistrarUtilizador.cs [Design]",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmRegistrarUtilizador.cs",
               "RelativeDocumentMoniker": "views\\frmRegistrarUtilizador.cs",
               "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmRegistrarUtilizador.cs [Design]",
               "RelativeToolTip": "views\\frmRegistrarUtilizador.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:49:03.93Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-25T02:49:03.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "frmKanban.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmKanban.cs",
               "RelativeDocumentMoniker": "views\\frmKanban.cs",
@@ -239,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -252,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "TipoTarefa.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\TipoTarefa.cs",
               "RelativeDocumentMoniker": "models\\TipoTarefa.cs",
@@ -260,35 +175,33 @@
               "RelativeToolTip": "models\\TipoTarefa.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAowDAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:23:17.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T23:23:17.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "dbo.Utilizadores [Dados]",
+              "DocumentIndex": 14,
+              "Title": "dbo.Utilizadores.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks.models.AplicationDBContext/True/SqlTable/dbo.Utilizadores.sql",
-              "ToolTip": "dbo.Utilizadores [Dados]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks.models.AplicationDBContext/True/SqlTable/dbo.Utilizadores.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-06-25T18:09:06.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T18:09:06.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "Programador.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Programador.cs",
               "RelativeDocumentMoniker": "models\\Programador.cs",
               "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Programador.cs",
               "RelativeToolTip": "models\\Programador.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBUAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBUAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T23:23:31.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\controllers\\UserController.cs",
               "RelativeDocumentMoniker": "controllers\\UserController.cs",
@@ -301,85 +214,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "frmRegistrarUtilizador.cs",
-              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmRegistrarUtilizador.cs",
-              "RelativeDocumentMoniker": "views\\frmRegistrarUtilizador.cs",
-              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmRegistrarUtilizador.cs",
-              "RelativeToolTip": "views\\frmRegistrarUtilizador.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAwwDoAAABjAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AplicationDBContext.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\AplicationDBContext.cs",
+              "RelativeDocumentMoniker": "models\\AplicationDBContext.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\AplicationDBContext.cs",
+              "RelativeToolTip": "models\\AplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "views",
-              "WhenOpened": "2025-06-25T11:57:44.502Z",
+              "WhenOpened": "2025-06-24T23:31:37.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "frmGereUtilizadores.cs [Design]",
-              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs",
-              "RelativeDocumentMoniker": "views\\frmGereUtilizadores.cs",
-              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs [Design]",
-              "RelativeToolTip": "views\\frmGereUtilizadores.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "frmGereTiposTarefas.cs [Design]",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmGereTiposTarefas.cs",
+              "RelativeDocumentMoniker": "views\\frmGereTiposTarefas.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmGereTiposTarefas.cs [Design]",
+              "RelativeToolTip": "views\\frmGereTiposTarefas.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T19:45:15.202Z",
+              "WhenOpened": "2025-06-25T20:09:00.896Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "frmDetalhesTarefa.cs [Design]",
-              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmDetalhesTarefa.cs",
-              "RelativeDocumentMoniker": "views\\frmDetalhesTarefa.cs",
-              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmDetalhesTarefa.cs [Design]",
-              "RelativeToolTip": "views\\frmDetalhesTarefa.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:14:00.428Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "frmKanban.cs [Design]",
-              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmKanban.cs",
-              "RelativeDocumentMoniker": "views\\frmKanban.cs",
-              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmKanban.cs [Design]",
-              "RelativeToolTip": "views\\frmKanban.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:47:13.655Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SQLQuery1.sql ",
-              "DocumentMoniker": "C:\\Users\\pedro.DESKTOP-EI6JCR4\\AppData\\Local\\Temp\\tp15aqdt..sql",
-              "ToolTip": "SQLQuery1.sql *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-06-25T19:59:32.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "dbo.Utilizadores.data.sql",
-              "DocumentMoniker": "C:\\Users\\pedro.DESKTOP-EI6JCR4\\AppData\\Local\\Temp\\dbo.Utilizadores.data.sql",
-              "ToolTip": "C:\\Users\\pedro.DESKTOP-EI6JCR4\\AppData\\Local\\Temp\\dbo.Utilizadores.data.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-06-25T17:36:54.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "dbo.Programadores [Dados]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks.models.AplicationDBContext/True/SqlTable/dbo.Programadores.sql",
-              "ToolTip": "dbo.Programadores [Dados]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-06-25T17:25:41.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
               "Title": "TarefaController.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\controllers\\TarefaController.cs",
               "RelativeDocumentMoniker": "controllers\\TarefaController.cs",
@@ -392,6 +252,140 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmGereUtilizadores.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs",
+              "RelativeDocumentMoniker": "views\\frmGereUtilizadores.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs",
+              "RelativeToolTip": "views\\frmGereUtilizadores.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAASwBEBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:47:03.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "models\\Tarefa.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Tarefa.cs",
+              "RelativeToolTip": "models\\Tarefa.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:26:44.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gestor.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Gestor.cs",
+              "RelativeDocumentMoniker": "models\\Gestor.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Gestor.cs",
+              "RelativeToolTip": "models\\Gestor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADgvx4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:44:59.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Departamento.cs",
+              "RelativeDocumentMoniker": "models\\Departamento.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Departamento.cs",
+              "RelativeToolTip": "models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:55:27.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\Utilizador.cs",
+              "RelativeDocumentMoniker": "models\\Utilizador.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\Utilizador.cs",
+              "RelativeToolTip": "models\\Utilizador.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADgv4YAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:22:50.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmRegistrarUtilizador.cs",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmRegistrarUtilizador.cs",
+              "RelativeDocumentMoniker": "views\\frmRegistrarUtilizador.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmRegistrarUtilizador.cs",
+              "RelativeToolTip": "views\\frmRegistrarUtilizador.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwDoAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "views",
+              "WhenOpened": "2025-06-25T11:57:44.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmGereUtilizadores.cs [Design]",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs",
+              "RelativeDocumentMoniker": "views\\frmGereUtilizadores.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmGereUtilizadores.cs [Design]",
+              "RelativeToolTip": "views\\frmGereUtilizadores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:45:15.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmDetalhesTarefa.cs [Design]",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmDetalhesTarefa.cs",
+              "RelativeDocumentMoniker": "views\\frmDetalhesTarefa.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmDetalhesTarefa.cs [Design]",
+              "RelativeToolTip": "views\\frmDetalhesTarefa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:14:00.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmKanban.cs [Design]",
+              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmKanban.cs",
+              "RelativeDocumentMoniker": "views\\frmKanban.cs",
+              "ToolTip": "E:\\git\\DA-projeto-grupo2\\views\\frmKanban.cs [Design]",
+              "RelativeToolTip": "views\\frmKanban.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:47:13.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "tp15aqdt..sql",
+              "DocumentMoniker": "C:\\Users\\pedro.DESKTOP-EI6JCR4\\AppData\\Local\\Temp\\tp15aqdt..sql",
+              "ToolTip": "C:\\Users\\pedro.DESKTOP-EI6JCR4\\AppData\\Local\\Temp\\tp15aqdt..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-25T19:59:32.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Utilizadores.data.sql",
+              "DocumentMoniker": "C:\\Users\\pedro.DESKTOP-EI6JCR4\\AppData\\Local\\Temp\\dbo.Utilizadores.data.sql",
+              "ToolTip": "C:\\Users\\pedro.DESKTOP-EI6JCR4\\AppData\\Local\\Temp\\dbo.Utilizadores.data.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-25T17:36:54.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Programadores.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks.models.AplicationDBContext/True/SqlTable/dbo.Programadores.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks.models.AplicationDBContext/True/SqlTable/dbo.Programadores.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-25T17:25:41.677Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 26,
               "Title": "frmConsultarTarefasConcluidas.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\views\\frmConsultarTarefasConcluidas.cs",
@@ -400,8 +394,7 @@
               "RelativeToolTip": "views\\frmConsultarTarefasConcluidas.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAASwDgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:29:31.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T23:29:31.193Z"
             },
             {
               "$type": "Document",
@@ -413,8 +406,7 @@
               "RelativeToolTip": "views\\frmConsultaTarefasEmCurso.cs",
               "ViewState": "AgIAADoAAAAAAAAAAADgv1MAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:29:48.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T23:29:48.305Z"
             },
             {
               "$type": "Document",
@@ -426,25 +418,11 @@
               "RelativeToolTip": "views\\frmDetalhesTarefa.cs",
               "ViewState": "AgIAACoAAAAAAAAAAADgvzwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:29:55.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T23:29:55.605Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "AplicationDBContext.cs",
-              "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\models\\AplicationDBContext.cs",
-              "RelativeDocumentMoniker": "models\\AplicationDBContext.cs",
-              "ToolTip": "E:\\git\\DA-projeto-grupo2\\models\\AplicationDBContext.cs",
-              "RelativeToolTip": "models\\AplicationDBContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBUAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:31:37.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "202506242339323_migration1.cs",
               "DocumentMoniker": "E:\\git\\DA-projeto-grupo2\\Migrations\\202506242339323_migration1.cs",
               "RelativeDocumentMoniker": "Migrations\\202506242339323_migration1.cs",
@@ -452,8 +430,7 @@
               "RelativeToolTip": "Migrations\\202506242339323_migration1.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAgwFIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:39:38.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T23:39:38.412Z"
             },
             {
               "$type": "Document",
@@ -465,8 +442,7 @@
               "RelativeToolTip": "models\\NivelExperiencia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T23:25:03.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T23:25:03.053Z"
             }
           ]
         }
