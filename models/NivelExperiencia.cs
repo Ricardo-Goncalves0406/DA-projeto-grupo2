@@ -10,6 +10,5 @@ namespace iTasks.models
     {
         Junior,
         Senior
-
     }
 }

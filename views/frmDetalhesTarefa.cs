@@ -28,7 +28,7 @@ namespace iTasks
         {
             if (_tarefa != null)
             {
-                this.txtId.Text = _tarefa.id.ToString();
+                this.txtId.Text = _tarefa.Id.ToString();
                 this.txtEstado.Text = _tarefa.EstadoAtual.ToString();
                 this.txtDataRealini.Text = _tarefa.DataRealInicio.ToString("dd/MM/yyyy HH:mm:ss");
                 this.txtdataRealFim.Text = _tarefa.DataRealFim.ToString("dd/MM/yyyy HH:mm:ss");
@@ -58,7 +58,7 @@ namespace iTasks
                 newTarefa.StoryPoints = int.Parse(txtStoryPoints.Text);
                 newTarefa.DataPrevistaInicio = DateTime.Parse(dtInicio.Text);
                 newTarefa.DataPrevistaFim = DateTime.Parse(dtFim.Text);
-                newTarefa.id = tarefa.id; // Manter o ID da tarefa existente para atualização
+                newTarefa.Id = tarefa.Id; // Manter o ID da tarefa existente para atualização
                 newTarefa.DataRealInicio = tarefa.DataRealInicio; // Manter os dados reais de início e fim
                 newTarefa.DataRealFim = tarefa.DataRealFim;
                 newTarefa.DataCriacao = tarefa.DataCriacao; // Manter a data de criação
@@ -66,14 +66,21 @@ namespace iTasks
                 newTarefa.idGestor = tarefa.idGestor; // Manter o ID do gestor
 
                 // Chamar o método de atualização do controlador
-                tarefaController.UpdateTarefa(tarefa);
-                
+                //tarefaController.UpdateTarefa(tarefa);
+                newTarefa.UpdateTarefa(newTarefa);
+
                 MessageBox.Show("Tarefa atualizada com sucesso!");
             }
             else
             {
                 MessageBox.Show("Nenhuma tarefa selecionada para atualizar.");
             }
+        }
+
+        private void btFechar_Click(object sender, EventArgs e)
+        {
+            // Fechar o formulário
+            this.Close();
         }
     }
 }

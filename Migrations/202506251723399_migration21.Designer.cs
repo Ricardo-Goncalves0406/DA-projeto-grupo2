@@ -7,13 +7,13 @@ namespace iTasks.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.5.1")]
-    public sealed partial class migration3 : IMigrationMetadata
+    public sealed partial class migration21 : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(migration3));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(migration21));
         
         string IMigrationMetadata.Id
         {
-            get { return "202505261533390_migration3"; }
+            get { return "202506251723399_migration21"; }
         }
         
         string IMigrationMetadata.Source

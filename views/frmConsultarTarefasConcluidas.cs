@@ -56,7 +56,7 @@ namespace iTasks
             foreach (var tarefa in tarefasConcluidas)
             {
                 gvTarefasConcluidas.Rows.Add(
-                    tarefa.id,
+                    tarefa.Id,
                     tarefa.Descricao,
                     tarefa.DataPrevistaInicio.ToShortDateString(),
                     tarefa.DataPrevistaFim.ToShortDateString(),

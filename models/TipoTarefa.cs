@@ -16,46 +16,61 @@ namespace iTasks.models
         public int Id { get; set; }
         public string Nome { get; set; }
 
-
         public void AddTipoTarefa(TipoTarefa tipoTarefa)
         {
-            using (var context = new AplicationDBContext())
+            try
             {
-                context.TiposTarefa.Add(tipoTarefa);
-                context.SaveChanges();
+                using (var context = new AplicationDBContext())
+                {
+                    context.TiposTarefa.Add(tipoTarefa);
+                    context.SaveChanges();
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error ao adicionar tipo de tarefa: {ex.Message}");
             }
         }
 
 
         public void UpdateTipoTarefa(TipoTarefa tipoTarefa)
         {
-            using (var context = new AplicationDBContext())
+            try
             {
-                var existingTipoTarefa = context.TiposTarefa.Find(tipoTarefa.Id);
-                if (existingTipoTarefa != null)
+                using (var context = new AplicationDBContext())
                 {
-                    existingTipoTarefa.Nome = tipoTarefa.Nome;
-                    context.SaveChanges();
+                    var existingTipoTarefa = context.TiposTarefa.Find(tipoTarefa.Id);
+                    if (existingTipoTarefa != null)
+                    {
+                        existingTipoTarefa.Nome = tipoTarefa.Nome;
+                        context.SaveChanges();
+                    }
                 }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error ao atualizar tipo de tarefa: {ex.Message}");
             }
         }
 
         public void DeleteTipoTarefa(int id)
         {
-            using (var context = new AplicationDBContext())
+            try
             {
-                var tipoTarefa = context.TiposTarefa.Find(id);
-                if (tipoTarefa != null)
+                using (var context = new AplicationDBContext())
                 {
-                    context.TiposTarefa.Remove(tipoTarefa);
-                    context.SaveChanges();
+                    var tipoTarefa = context.TiposTarefa.Find(id);
+                    if (tipoTarefa != null)
+                    {
+                        context.TiposTarefa.Remove(tipoTarefa);
+                        context.SaveChanges();
+                    }
                 }
             }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error ao deletar tipo de tarefa: {ex.Message}");
+            }
         }
-
-        
-
-
-
     }
 }

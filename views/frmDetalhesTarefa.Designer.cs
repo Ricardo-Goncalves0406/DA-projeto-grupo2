@@ -275,6 +275,7 @@
             this.btFechar.TabIndex = 29;
             this.btFechar.Text = "Fechar";
             this.btFechar.UseVisualStyleBackColor = true;
+            this.btFechar.Click += new System.EventHandler(this.btFechar_Click);
             // 
             // txtStoryPoints
             // 

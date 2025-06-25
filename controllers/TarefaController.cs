@@ -204,7 +204,7 @@ namespace iTasks.controllers
                 using (var context = new AplicationDBContext())
                 {
                     // Busca a tarefa pelo ID
-                    var existingTarefa = context.Tarefas.Find(tarefa.id);
+                    var existingTarefa = context.Tarefas.Find(tarefa.Id);
                     if (existingTarefa != null)
                     {
                         // Atualiza o estado da tarefa
@@ -291,7 +291,7 @@ namespace iTasks.controllers
                     sb.AppendLine("ID,Descrição,Data Prevista Início,Data Prevista Fim,Story Points,Data Real Início,Data Real Fim,Data Criação,Estado Atual,"); // Cabeçalho do CSV
                     foreach (var tarefa in tarefas) // Itera sobre cada tarefa e adiciona ao StringBuilder
                     {
-                        sb.AppendLine($"{tarefa.id},{tarefa.Descricao},{tarefa.DataPrevistaInicio},{tarefa.DataPrevistaFim},{tarefa.StoryPoints},{tarefa.DataRealInicio},{tarefa.DataRealFim},{tarefa.DataCriacao},{tarefa.EstadoAtual}");
+                        sb.AppendLine($"{tarefa.Id},{tarefa.Descricao},{tarefa.DataPrevistaInicio},{tarefa.DataPrevistaFim},{tarefa.StoryPoints},{tarefa.DataRealInicio},{tarefa.DataRealFim},{tarefa.DataCriacao},{tarefa.EstadoAtual}");
                     }
                     System.IO.File.WriteAllText(caminhoArquivo, sb.ToString()); // Escreve o conteúdo no arquivo CSV
                 }
@@ -299,18 +299,6 @@ namespace iTasks.controllers
             catch (Exception ex)
             {
                 MessageBox.Show("Erro ao exportar tarefas para CSV: " + ex.Message);
-            }
-        }
-
-        public void UpdateTarefa(Tarefa tarefa)
-        {
-            try
-            {
-                tarefa.UpdateTarefa(tarefa); // Chama o método de atualização da tarefa
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Erro ao atualizar a tarefa: " + ex.Message);
             }
         }
     }

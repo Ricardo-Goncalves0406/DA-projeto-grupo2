@@ -56,7 +56,7 @@ namespace iTasks
             foreach (var tarefa in tarefasEmCurso)
             {
                 gvTarefasEmCurso.Rows.Add(
-                    tarefa.id,
+                    tarefa.Id,
                     tarefa.Descricao,
                     tarefa.DataPrevistaInicio.ToShortDateString(),
                     tarefa.DataPrevistaFim.ToShortDateString(),
@@ -74,7 +74,7 @@ namespace iTasks
             if (e.RowIndex >= 0 && e.RowIndex < gvTarefasEmCurso.Rows.Count)
             {
                 int tarefaId = Convert.ToInt32(gvTarefasEmCurso.Rows[e.RowIndex].Cells["id"].Value);
-                Tarefa tarefaSelecionada = tarefasEmCurso.FirstOrDefault(t => t.id == tarefaId);
+                Tarefa tarefaSelecionada = tarefasEmCurso.FirstOrDefault(t => t.Id == tarefaId);
                 if (tarefaSelecionada != null)
                 {
                     frmDetalhesTarefa frmDetalhes = new frmDetalhesTarefa(tarefaSelecionada);

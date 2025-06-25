@@ -64,25 +64,17 @@
   <ItemGroup>
     <Compile Include="controllers\TarefaController.cs" />
     <Compile Include="controllers\UserController.cs" />
-    <Compile Include="Migrations\202505201055437_InitialCreate.cs" />
-    <Compile Include="Migrations\202505201055437_InitialCreate.Designer.cs">
-      <DependentUpon>202505201055437_InitialCreate.cs</DependentUpon>
+    <Compile Include="Migrations\202506242339323_migration1.cs" />
+    <Compile Include="Migrations\202506242339323_migration1.Designer.cs">
+      <DependentUpon>202506242339323_migration1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202505201832506_migrationmain.cs" />
-    <Compile Include="Migrations\202505201832506_migrationmain.Designer.cs">
-      <DependentUpon>202505201832506_migrationmain.cs</DependentUpon>
+    <Compile Include="Migrations\202506251721455_migration2.cs" />
+    <Compile Include="Migrations\202506251721455_migration2.Designer.cs">
+      <DependentUpon>202506251721455_migration2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202505261518396_migration2.cs" />
-    <Compile Include="Migrations\202505261518396_migration2.Designer.cs">
-      <DependentUpon>202505261518396_migration2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202505261533390_migration3.cs" />
-    <Compile Include="Migrations\202505261533390_migration3.Designer.cs">
-      <DependentUpon>202505261533390_migration3.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202505261605238_migration4.cs" />
-    <Compile Include="Migrations\202505261605238_migration4.Designer.cs">
-      <DependentUpon>202505261605238_migration4.cs</DependentUpon>
+    <Compile Include="Migrations\202506251723399_migration21.cs" />
+    <Compile Include="Migrations\202506251723399_migration21.Designer.cs">
+      <DependentUpon>202506251723399_migration21.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="models\AplicationDBContext.cs" />
@@ -138,20 +130,20 @@
     <Compile Include="models\Utilizador.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Migrations\202505201055437_InitialCreate.resx">
-      <DependentUpon>202505201055437_InitialCreate.cs</DependentUpon>
+    <Compile Include="views\frmRegistrarUtilizador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\frmRegistrarUtilizador.Designer.cs">
+      <DependentUpon>frmRegistrarUtilizador.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Migrations\202506242339323_migration1.resx">
+      <DependentUpon>202506242339323_migration1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202505201832506_migrationmain.resx">
-      <DependentUpon>202505201832506_migrationmain.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202506251721455_migration2.resx">
+      <DependentUpon>202506251721455_migration2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202505261518396_migration2.resx">
-      <DependentUpon>202505261518396_migration2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202505261533390_migration3.resx">
-      <DependentUpon>202505261533390_migration3.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202505261605238_migration4.resx">
-      <DependentUpon>202505261605238_migration4.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202506251723399_migration21.resx">
+      <DependentUpon>202506251723399_migration21.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="views\frmConsultarTarefasConcluidas.resx">
       <DependentUpon>frmConsultarTarefasConcluidas.cs</DependentUpon>
@@ -183,6 +175,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="views\frmRegistrarUtilizador.resx">
+      <DependentUpon>frmRegistrarUtilizador.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\DataSources\iTasks.models.Tarefa.datasource" />
     <None Include="Properties\Settings.settings">

@@ -37,7 +37,30 @@ namespace iTasks
 
             SetupForm();
             UpdateLists();
-            
+            CheckPerm(user); // Verifica as permissões do utilizador
+
+        }
+
+        public void CheckPerm(Utilizador utilizador)
+        {
+            // Verifica se o utilizador é um gestor buscando os gestores associados ao utilizador
+            Gestor res = null;
+            if (utilizador.IdGestor.HasValue)
+            {
+                Gestor gestor = new Gestor();
+                res = gestor.GetGestorById(utilizador.IdGestor.Value);
+            }
+            if (res != null && res.GereUtilizadores)
+            {
+                // Se o utilizador é um gestor, habilita o menu de gestão de utilizadores
+                utilizadoresToolStripMenuItem.Visible = true;
+            }
+            else
+            {
+                // Caso contrário, desabilita o menu de gestão de utilizadores
+                utilizadoresToolStripMenuItem.Visible = false;
+            }
+
         }
 
         private void SetupForm()
@@ -173,6 +196,13 @@ namespace iTasks
                 tarefaController.ExportarTarefasParaCSV(filePath);
                 MessageBox.Show("Tarefas exportadas com sucesso para " + filePath);
             }
+        }
+
+        private void gerirUtilizadoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            // frmGereUtilizadores
+            frmGereUtilizadores frm = new frmGereUtilizadores();
+            frm.ShowDialog();
         }
     }
 }

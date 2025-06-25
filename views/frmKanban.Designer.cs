@@ -164,6 +164,7 @@
             this.gerirUtilizadoresToolStripMenuItem.Name = "gerirUtilizadoresToolStripMenuItem";
             this.gerirUtilizadoresToolStripMenuItem.Size = new System.Drawing.Size(185, 22);
             this.gerirUtilizadoresToolStripMenuItem.Text = "Gerir Utilizadores";
+            this.gerirUtilizadoresToolStripMenuItem.Click += new System.EventHandler(this.gerirUtilizadoresToolStripMenuItem_Click);
             // 
             // gerirTiposDeTarefasToolStripMenuItem
             // 
